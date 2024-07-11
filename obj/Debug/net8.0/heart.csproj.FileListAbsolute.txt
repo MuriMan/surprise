@@ -1,0 +1,45 @@
+/media/abrar/New Volume/dev/heart/bin/Debug/net8.0/heart
+/media/abrar/New Volume/dev/heart/bin/Debug/net8.0/heart.deps.json
+/media/abrar/New Volume/dev/heart/bin/Debug/net8.0/heart.runtimeconfig.json
+/media/abrar/New Volume/dev/heart/bin/Debug/net8.0/heart.dll
+/media/abrar/New Volume/dev/heart/bin/Debug/net8.0/heart.pdb
+/media/abrar/New Volume/dev/heart/bin/Debug/net8.0/Raylib-cs.dll
+/media/abrar/New Volume/dev/heart/bin/Debug/net8.0/runtimes/linux-x64/native/libraylib.so
+/media/abrar/New Volume/dev/heart/bin/Debug/net8.0/runtimes/osx-arm64/native/libraylib.dylib
+/media/abrar/New Volume/dev/heart/bin/Debug/net8.0/runtimes/osx-x64/native/libraylib.dylib
+/media/abrar/New Volume/dev/heart/bin/Debug/net8.0/runtimes/win-x64/native/raylib.dll
+/media/abrar/New Volume/dev/heart/bin/Debug/net8.0/runtimes/win-x86/native/raylib.dll
+/media/abrar/New Volume/dev/heart/obj/Debug/net8.0/heart.csproj.AssemblyReference.cache
+/media/abrar/New Volume/dev/heart/obj/Debug/net8.0/heart.GeneratedMSBuildEditorConfig.editorconfig
+/media/abrar/New Volume/dev/heart/obj/Debug/net8.0/heart.AssemblyInfoInputs.cache
+/media/abrar/New Volume/dev/heart/obj/Debug/net8.0/heart.AssemblyInfo.cs
+/media/abrar/New Volume/dev/heart/obj/Debug/net8.0/heart.csproj.CoreCompileInputs.cache
+/media/abrar/New Volume/dev/heart/obj/Debug/net8.0/heart.csproj.Up2Date
+/media/abrar/New Volume/dev/heart/obj/Debug/net8.0/heart.dll
+/media/abrar/New Volume/dev/heart/obj/Debug/net8.0/refint/heart.dll
+/media/abrar/New Volume/dev/heart/obj/Debug/net8.0/heart.pdb
+/media/abrar/New Volume/dev/heart/obj/Debug/net8.0/heart.genruntimeconfig.cache
+/media/abrar/New Volume/dev/heart/obj/Debug/net8.0/ref/heart.dll
+E:\dev\heart\bin\Debug\net8.0\heart.exe
+E:\dev\heart\bin\Debug\net8.0\heart.deps.json
+E:\dev\heart\bin\Debug\net8.0\heart.runtimeconfig.json
+E:\dev\heart\bin\Debug\net8.0\heart.dll
+E:\dev\heart\bin\Debug\net8.0\heart.pdb
+E:\dev\heart\bin\Debug\net8.0\Raylib-cs.dll
+E:\dev\heart\bin\Debug\net8.0\runtimes\linux-x64\native\libraylib.so
+E:\dev\heart\bin\Debug\net8.0\runtimes\osx-arm64\native\libraylib.dylib
+E:\dev\heart\bin\Debug\net8.0\runtimes\osx-x64\native\libraylib.dylib
+E:\dev\heart\bin\Debug\net8.0\runtimes\win-x64\native\raylib.dll
+E:\dev\heart\bin\Debug\net8.0\runtimes\win-x86\native\raylib.dll
+E:\dev\heart\obj\Debug\net8.0\heart.csproj.AssemblyReference.cache
+E:\dev\heart\obj\Debug\net8.0\heart.GeneratedMSBuildEditorConfig.editorconfig
+E:\dev\heart\obj\Debug\net8.0\heart.AssemblyInfoInputs.cache
+E:\dev\heart\obj\Debug\net8.0\heart.AssemblyInfo.cs
+E:\dev\heart\obj\Debug\net8.0\heart.csproj.CoreCompileInputs.cache
+E:\dev\heart\obj\Debug\net8.0\heart.sourcelink.json
+E:\dev\heart\obj\Debug\net8.0\heart.csproj.Up2Date
+E:\dev\heart\obj\Debug\net8.0\heart.dll
+E:\dev\heart\obj\Debug\net8.0\refint\heart.dll
+E:\dev\heart\obj\Debug\net8.0\heart.pdb
+E:\dev\heart\obj\Debug\net8.0\heart.genruntimeconfig.cache
+E:\dev\heart\obj\Debug\net8.0\ref\heart.dll
